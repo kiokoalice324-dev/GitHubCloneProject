@@ -1,1 +1,1 @@
-Feature test
+This is a new feature.
